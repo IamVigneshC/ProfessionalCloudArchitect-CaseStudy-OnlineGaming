@@ -47,3 +47,7 @@ Requirements for game analytics platform
 ## 4. Executive statement
 
 Our last successful game did not scale well with our previous cloud provider, resulting in lower user adoption and affecting the game’s reputation. Our investors want more key performance indicators (KPIs) to evaluate the speed and stability of the game, as well as other metrics that provide deeper insight into usage patterns so we can adapt the game to target users. Additionally, our current technology stack cannot provide the scale we need, so we want to replace MySQL and move to an environment that provides autoscaling and low latency load balancing and frees us up from managing physical servers.
+
+
+
+![Image of GCP](https://github.com/IamVigneshC/ProfessionalCloudArchitect-CaseStudy-Shopalot/blob/master/1.jpg)
